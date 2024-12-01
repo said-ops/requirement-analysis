@@ -5,3 +5,6 @@ This repository is for the requirment analysis of the Airbnb clone project we'll
 Requirement Analysis is a crucial phase of Software Development Lifecyle, where the project team gathers, analyses and defines the the requirment of the product to be developed.
 
 ## Why is Requirement Analysis Important?
+- Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
+- Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
+- Basis for Design and Development: Provides a solid foundation for designing and developing the system.
