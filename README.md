@@ -12,7 +12,7 @@ Requirement Analysis is a crucial phase of Software Development Lifecyle, where 
 ## Key Activities in Requirement Analysis.
 1. Requirement Gathering
 - Engage with stakeholders to collect initial requirements.
--Use various techniques like interviews, surveys, and workshops.
+- Use various techniques like interviews, surveys, and workshops.
 2. Requirement Elicitation
 - Refine and elaborate on the gathered requirements.
 - Use techniques like brainstorming, focus groups, and prototyping.
@@ -25,3 +25,17 @@ Requirement Analysis is a crucial phase of Software Development Lifecyle, where 
 5. Requirement Validation
 - Review and validate the requirements with stakeholders.
 - Define acceptance criteria and ensure traceability.
+
+## Types of Requirements.
+### Functional Requirements
+
+Definition: Describe what the system should do.
+Examples: User authentication, property search, booking system, user registration.
+
+Key Functional Requirements:
+
+Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+User Registration: New users should be able to create an account with personal details and login credentials.
+Property Listings: Display properties with essential details and images.
+Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+User Authentication: Secure login and registration process for users.
